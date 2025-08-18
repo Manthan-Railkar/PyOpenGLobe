@@ -49,7 +49,7 @@ def main():
 
     # Windowed mode with minimize/maximize buttons
     pygame.display.set_mode(display, DOUBLEBUF | OPENGL | RESIZABLE)
-    pygame.display.set_caption('The Globe Game')
+    pygame.display.set_caption('Continental Quest')
     pygame.key.set_repeat(1, 10)
 
     # Projection and initial view
